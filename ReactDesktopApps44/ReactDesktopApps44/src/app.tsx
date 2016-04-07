@@ -36,7 +36,7 @@ class App extends React.Component<any,any> {
                             </button>
                             <a className="navbar-brand" href="/">
                                 <img src="/img/react-logo.png" />
-                                ReactDesktopApps44
+                                ReactDesktopApps44 v1.1
                             </a>
                         </div>
                         <div className="navbar-collapse collapse">
